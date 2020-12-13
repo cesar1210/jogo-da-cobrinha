@@ -7,7 +7,7 @@ Recriando o jogo da cobrinha com JavaScript
 # Como rodar o jogo ?
 ```
 - Faça download dos arquivos ou clone por meio do comando
-$ git clone https://github.com/SentlySS/Happy Happy
+$ git clone https://github.com/cesar1210/jogo-da-cobrinha jogo-da-cobrinha
 
 -Rode o arquivo 'index.html'
 -Se divirta
