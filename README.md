@@ -2,7 +2,7 @@
 Recriando o jogo da cobrinha com JavaScript
 
 # Visão geral
-![](https://giphy.com/gifs/a3CmKcu2vll6uOfXvu/html5)
+![](https://media.giphy.com/media/a3CmKcu2vll6uOfXvu/giphy.gif)
 
 # Como rodar o jogo ?
 ```
