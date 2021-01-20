@@ -14,20 +14,20 @@ let food = {
 
 function criarBG() {
     context.fillStyle = "lightgreen";
-    context.fillReact(0, 0, 16 * box, 16 * box);
+    context.fillRect(0, 0, 16 * box, 16 * box);
 }
 
 function criarCobrinha() {
     for(i=0; i < snake.length; i++) {
         context.fillStyle = "green";
-        context.fillReact(snake[i].x, snake[i].y, box, box);
+        context.fillRect(snake[i].x, snake[i].y, box, box);
     }
 
 }
 
 function drawFood(){
     context.fillStyle = "red";
-    context.fillReact(food.x, food.y, box, box);
+    context.fillRect(food.x, food.y, box, box);
 }
 
 document.addEventListener('keydown', update);
